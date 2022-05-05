@@ -140,3 +140,9 @@ az iot device simulate -d simDevice -n {YourIoTHubName}
 And after execution of the simulation
 
 ![](img/disconnected.png)
+
+## Second part
+
+[Raspberry Pi](https://aka.ms/RaspPi)
+
+[Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
